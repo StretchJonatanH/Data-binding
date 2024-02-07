@@ -1,0 +1,11 @@
+{
+    "name": "ui5.databinding",
+    "version": "1.0.0",
+    "description": "The UI5 data binding application",
+    "scripts": {
+        "start": "ui5 serve -o index.html"
+    },
+    "devDependencies": {
+        "@ui5/cli": "^3.9.0"
+    }
+}

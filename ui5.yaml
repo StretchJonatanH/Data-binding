@@ -1,0 +1,12 @@
+specVersion: '2.6'
+metadata:
+  name: ui5.databinding
+type: application
+framework:
+  name: OpenUI5
+  version: "1.120.3"
+  libraries:
+    - name: sap.m
+    - name: sap.ui.core
+    - name: sap.ui.layout
+    - name: themelib_sap_horizon
